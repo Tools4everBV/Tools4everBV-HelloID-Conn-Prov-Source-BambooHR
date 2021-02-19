@@ -1,0 +1,35 @@
+[
+  {
+    "key": "companySubDomain",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Company Subdomain",
+      "placeholder": "mycompany",
+      "description": "If you access bamboohr at https://mycompany.bamboohr.com, then the companyDomain is 'mycompany'",
+      "required": true
+    }
+  },
+  {
+    "key": "apiKey",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "API Key",
+      "type": "password",
+      "placeholder": "Please enter a API key",
+      "description": "To create an API Key see https://documentation.bamboohr.com/docs/getting-started",
+      "required": true
+    }
+  },
+  {
+    "key": "employeeFields",
+    "type": "input",
+    "defaultValue": "acaStatus,address1,address2,city,country,dateOfBirth,department,division,eeo,employeeNumber,employeeStatusDate,employmentHistoryStatus,employmentStatus,ethnicity,exempt,facebook,firstName,gender,hireDate,homeEmail,homePhone,jobTitle,lastName,linkedIn,location,maritalStatus,middleName,mobilePhone,nickname,originalHireDate,overtimeRate,payChangeReason,payPer,payPeriod,payRate,payRateEffectiveDate,paySchedule,payType,preferredName,ssn,state,status,terminationDate,twitterFeed,workEmail,workPhone,workPhoneExtension,zipcode",
+    "templateOptions": {
+      "label": "Fields",
+      "placeholder": "Please enter a comma-delimited list of fields",
+      "required": true
+    }
+  }
+]
