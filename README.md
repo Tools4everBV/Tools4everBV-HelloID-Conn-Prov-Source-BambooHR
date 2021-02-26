@@ -32,4 +32,4 @@ A basic person and contract mapping is provided. Make sure to further customize 
 
 2. Fill in the required fields on the connectors 'Configuration' tab.
 
-![image](./assets/BambooHRConfiguration.jpg)
+![image](./Assets/BambooHRConfiguration.jpg)
