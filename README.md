@@ -25,8 +25,8 @@ A basic person and contract mapping is provided. Make sure to further customize 
 1. Add a new 'Source System' to HelloID and make sure to import all the necessary files.
 
     - [ ] configuration.json
-    - [ ] mapping.persons.json
-    - [ ] mapping.contracts.json
+    - [ ] personMapping.json
+    - [ ] contractMapping.json
     - [ ] persons.ps1
     - [ ] departments.ps1
 
