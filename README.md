@@ -1,6 +1,6 @@
 # Tools4everBV-HelloID-Conn-Prov-Source-BambooHR
 <p align="center">
-  <img src="Assets/bambooHRLogo.png">
+  <img src="assets/bambooHRLogo.png">
 </p>
 Source data from BambooHR via API
 
