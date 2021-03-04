@@ -1,4 +1,7 @@
 # Tools4everBV-HelloID-Conn-Prov-Source-BambooHR
+<p align="center">
+  <img src="Assets/bambooHRLogo.png">
+</p>
 Source data from BambooHR via API
 
 ## Table of contents
@@ -14,7 +17,7 @@ This source connector leverages the BambooHR API to import employees into HelloI
 
 ## Prerequisites
 
-- API Key from BambooHR
+- API Key from BambooHR https://documentation.bamboohr.com/docs/getting-started
 
 ## Mappings
 
