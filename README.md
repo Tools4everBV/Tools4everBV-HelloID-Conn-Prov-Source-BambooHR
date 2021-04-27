@@ -36,3 +36,6 @@ A basic person and contract mapping is provided. Make sure to further customize 
 2. Fill in the required fields on the connectors 'Configuration' tab.
 
 ![image](assets/BambooHRConfiguration.jpg)
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
