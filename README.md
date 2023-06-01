@@ -7,8 +7,8 @@
 <br />
 
 <p align="center">
-  <img src="assets/bamboohrLogo.png">
-</p>
+  <img src="https://github.com/Tools4everBV/Tools4everBV-HelloID-Conn-Prov-Source-BambooHR/blob/main/assets/bamboohrLogo.png">
+</p
 Source data from BambooHR via API
 
 ## Table of contents
