@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img width="740" alt="BambooHR-logo" src="https://github.com/Tools4everBV/Tools4everBV-HelloID-Conn-Prov-Source-BambooHR/assets/17279802/4a7097f1-5f00-4206-9c33-c2a314daa7e7">
+  <img width="740" alt="BambooHR-logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/17279802/242604959-4a7097f1-5f00-4206-9c33-c2a314daa7e7.png">
 </p
 Source data from BambooHR via API
 
